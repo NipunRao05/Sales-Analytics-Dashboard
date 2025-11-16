@@ -1,0 +1,2 @@
+Power BI .pbix file should be placed here as Sales_Analytics_Dashboard.pbix
+You can create the report in Power BI Desktop and save it into this folder.
